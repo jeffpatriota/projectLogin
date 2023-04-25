@@ -1,0 +1,8 @@
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\bin\Debug\projetoLoginConsole.exe.config
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\bin\Debug\projetoLoginConsole.exe
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\bin\Debug\projetoLoginConsole.pdb
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\obj\Debug\projetoLoginConsole.csproj.AssemblyReference.cache
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\obj\Debug\projetoLoginConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\obj\Debug\projetoLoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\obj\Debug\projetoLoginConsole.exe
+C:\Users\jefferson.patriota\source\repos\projetoLoginConsole\projetoLoginConsole\obj\Debug\projetoLoginConsole.pdb
